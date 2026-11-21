@@ -1,12 +1,10 @@
-# Content Warning VR Mod
+# Content Warning VR Fix Mod
 
-[![Thunderstore Version](https://img.shields.io/thunderstore/v/DaXcess/CWVR?style=for-the-badge&logo=thunderstore&logoColor=white)](https://thunderstore.io/c/content-warning/p/DaXcess/CWVR)
-[![GitHub Version](https://img.shields.io/github/v/release/DaXcess/CWVR?style=for-the-badge&logo=github)](https://github.com/DaXcess/CWVR/releases/latest)
-[![Thunderstore Downloads](https://img.shields.io/thunderstore/dt/DaXcess/CWVR?style=for-the-badge&logo=thunderstore&logoColor=white)](https://thunderstore.io/c/content-warning/p/DaXcess/CWVR)
-[![GitHub Downloads](https://img.shields.io/github/downloads/DaXcess/CWVR/total?style=for-the-badge&logo=github)](https://github.com/DaXcess/CWVR/releases/latest)
-<br/>
-[![Release Build](https://img.shields.io/github/actions/workflow/status/DaXcess/CWVR/build-release.yaml?branch=main&style=for-the-badge&label=RELEASE)](https://github.com/DaXcess/CWVR/actions/workflows/build-release.yaml)
-[![Debug Build](https://img.shields.io/github/actions/workflow/status/DaXcess/CWVR/build-debug.yaml?branch=dev&style=for-the-badge&label=DEBUG)](https://github.com/DaXcess/CWVR/actions/workflows/build-debug.yaml)
+[![GitHub Original Version](https://github.com/DaXcess/CWVR/releases/latest)
+[Original mod by DaXcess](https://thunderstore.io/c/content-warning/p/DaXcess/CWVR/)
+[Updated fork github](https://github.com/DivanyKosmonavt/CWVR_Fix)
+
+> This fix in NOT OFFICIAL. Original mod make the Daxcess
 
 CW // VR is a MultiLoader mod that adds fully fledged, 6DOF VR support into Content Warning, including fully motion controlled hands.
 
