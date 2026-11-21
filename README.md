@@ -1,7 +1,9 @@
 # Content Warning VR Fix Mod
 
 [![GitHub Original Version](https://github.com/DaXcess/CWVR/releases/latest)
+
 [Original mod by DaXcess](https://thunderstore.io/c/content-warning/p/DaXcess/CWVR/)
+
 [Updated fork github](https://github.com/DivanyKosmonavt/CWVR_Fix)
 
 > This fix in NOT OFFICIAL. Original mod make the Daxcess
